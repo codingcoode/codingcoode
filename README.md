@@ -9,9 +9,9 @@ codingcoode/codingcoode is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi Coders
 
-- 👋 Hi, I’m @codingcoode
+  
+- 👋 Hi Coders, I’m @codingcoode
 
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning HTML CSS, Experienced in Wordpress, Shopify. Learned Python Programming.
